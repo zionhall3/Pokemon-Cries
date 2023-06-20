@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  background-color: red;
+}
+
+h1 {
+  font-size: 5rem;
+  color:yellow;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 black;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+img.animated-gif{
+  width: 10px;
+  height: auto;
+}
+
+.w {
+  background: url(images/pikachu.gif);
+  background-size: cover;
+
+}
+
+.a 
+{background: url(images/bulbasaur.gif);
+  background-size: cover;
+}
+
+.s {
+  background: url(images/charmander.gif);
+  background-size: cover;
+}
+
+.d {
+  background: url(images/squirtle.gif);
+  background-size: cover;
+}
+
+.j {
+  background: url(images/eevee.gif);
+  background-size: cover;
+}
+
+.k {
+  background: url(images/meowth.gif);
+  background-size: cover;
+}
+
+.l {
+  background: url(images/togepi.gif);
+  background-size: cover;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.pokemon {
+  outline: none;
+  border: 10px solid green;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: blue;
+  text-shadow: 3px 0 yellow;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: pink;
+}
